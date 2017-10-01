@@ -2,7 +2,7 @@
 -- 使用方式：
 -- 1. 可以单独用作init_worker_by_lua_file指令配置
 -- 2. 或单独在对应需要初始化的代码所需要地方，导入即可：require "lua_malloc_trim"
--- User: nieyong
+-- User: nieyong@staff.weibo.com
 -- Date: 2017/9/20
 -- Time: 下午8:45
 
